@@ -1,3 +1,6 @@
+## Note :)
+I made this "backup script" a long time ago when I was getting into Linux. Even though it does say it is forked, I own the @tuxedlinux account but I have no idea about it's password and I use this one anyway. 
+
 # Rbackup
 A shell script script used to create backups of your home folder (only your personal files)
 
